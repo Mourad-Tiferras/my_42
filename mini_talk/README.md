@@ -12,6 +12,7 @@
 
 ```
 
+> 💡 _“Minitalk teaches you how two processes can talk to each other without sockets — only with pure signals!”_
 
 ---
 
@@ -126,3 +127,4 @@ Keep in mind:
 
 
 > 💡 _“Minitalk teaches you how two processes can talk to each other without sockets — only with pure signals!”_
+
