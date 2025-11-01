@@ -31,7 +31,7 @@ If you read this, you might get confused about how the students learn. well, at 
 		➤ Shell Scripting
 		➤ Git
         ➤ C/C++ Language
-        ➤ System prohramming
+        ➤ System programming
         ➤ Parallel computing
         ➤ Object-oriented programming
 		➤ Algorithms & AI
