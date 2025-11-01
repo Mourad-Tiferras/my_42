@@ -1,4 +1,4 @@
-# my_42 Projects During The Cursus & After The Blachole :(
+# my_42 Projects During The Cursus & After The Blackhole :(
 
 ----------------
 ![1519800190989](https://github.com/Mourad-Tiferras/my_42/blob/main/src/1337_school.jpeg)
