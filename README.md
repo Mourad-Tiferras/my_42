@@ -28,15 +28,19 @@ If you read this, you might get confused about how the students learn. well, at 
 *	#### Hard Skills
 
 	```
-		➤ C/C++ Language & Makefile
 		➤ Shell Scripting
 		➤ Git
-		➤ Assembly Language
-		➤ Web
-		➤ Docker
-		➤ Networks
+        ➤ C/C++ Language
+        ➤ System prohramming
+        ➤ Parallel computing
+        ➤ Object-oriented programming
+		➤ Algorithms & AI
+		➤ Network & System Administration
 		➤ Graphics
-		➤ Security
+        ➤ Web
+		➤ Docker
+        ➤ DB & Data
+ 		➤ Security
 	```
 	
 *	#### Soft Skills
@@ -44,7 +48,8 @@ If you read this, you might get confused about how the students learn. well, at 
 		➤ Time Managment
 		➤ Teamwork
 		➤ Self-learning
-    ➤ Peer Learning
+        ➤ Peer Learning
+        ➤ Adaptation & Creativity
 	```
 
 
