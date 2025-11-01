@@ -36,9 +36,9 @@ int     main(int argc, char *argv[])
                 }
                 c_idx++;
             }
-            _putchar('\n');
             row_idx++;
         }
+        _putchar('\n');
     }
     return (0);
 }
