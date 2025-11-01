@@ -1,7 +1,7 @@
 # my_42
 
 ----------------
-![1519800190989](https://user-images.githubusercontent.com/49293816/188543057-890269c9-4c38-4b09-a3f8-5f6dd4bc07a9.jpeg)
+![1519800190989](https://www.42network.org/wp-content/uploads/2021/04/Banner1337Khourigba-scaled-1.jpg)
 
 ----------------
 
