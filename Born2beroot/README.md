@@ -5,7 +5,7 @@
 
 ## Complete Guide
 
-There is a many tutorial hell that can guide you to set-up (make sure you understand each step before executing): [https://noreply.gitbook.io/born2beroot]
+There is a many tutorial hell that can guide you to set-up your VM (make sure you understand each step before executing)
 
 
 ## Debian Version
@@ -224,3 +224,4 @@ In this project, we use VirtualBox, which is a Type 2 hypervisor.
 ### Cron allows for scheduling of programs or scripts to run at a specific time.
 
 # Grade: 100 / 100
+
